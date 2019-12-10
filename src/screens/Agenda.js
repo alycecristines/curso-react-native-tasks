@@ -9,7 +9,7 @@ import {
     Platform,
     AsyncStorage 
 } from 'react-native';
-import moment from 'moment';
+import moment from 'moment'; 
 import 'moment/locale/pt-br';
 import todayImage from '../../assets/imgs/today.jpg';
 import commonStyles from '../commonStyles';
