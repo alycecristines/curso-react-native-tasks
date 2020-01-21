@@ -1,4 +1,14 @@
 # Projeto Tasks
 
 Tecnologias utilizadas
-  * React Native
+- [x] React Native
+
+```
+# instalar dependencias
+yarn i
+```
+
+```
+# executar projeto
+yarn run-android
+```
