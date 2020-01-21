@@ -1,1 +1,4 @@
-# Projeto Tasks (Curso de React Native)
+# Projeto Tasks
+
+Tecnologias utilizadas
+  * React Native
