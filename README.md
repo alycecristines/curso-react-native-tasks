@@ -6,9 +6,8 @@ Tecnologias utilizadas
 ```
 # instalar dependencias
 yarn i
-```
 
-```
 # executar projeto
 yarn run-android
 ```
+
